@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-quiz",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0",
+    "tall": "^8.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
