@@ -12,7 +12,7 @@ export default class TitleScene extends Phaser.Scene {
   }
 
 create() {
-  // Add background behind everything
+  // background
   this.add.image(400, 300, 'background').setDepth(-1);
 
   // Minecraft Quiz Logo
